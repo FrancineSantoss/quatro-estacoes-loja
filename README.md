@@ -3,7 +3,7 @@
 GitHub Pages: 
 https://francinesantoss.github.io/quatro-estacoes-loja/
 
-VIDEO AULA SOBRE O SITE (DRIVE): https://drive.google.com/drive/folders/1mwA28n1Y3T83XlNuKX5Mf-lbuyfSuwGK?usp=sharing
+VIDEO AULA SOBRE O SITE (DRIVE): https://drive.google.com/drive/u/0/folders/1mwA28n1Y3T83XlNuKX5Mf-lbuyfSuwGK
 
 
 Caixas de Diálogo

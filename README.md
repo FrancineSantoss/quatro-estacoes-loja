@@ -1,7 +1,7 @@
 # quatro-estacoes-loja
 
 GitHub Pages: 
-https://francinesantoss.github.io/quatro-estacoes/index.html
+https://francinesantoss.github.io/quatro-estacoes-loja/
 
 VIDEO AULA SOBRE O SITE (DRIVE): https://drive.google.com/drive/folders/1mwA28n1Y3T83XlNuKX5Mf-lbuyfSuwGK?usp=sharing
 

@@ -1,0 +1,193 @@
+
+
+table{
+	padding-left: 20px;
+	font-size: 12px;
+}
+
+#botao{ text-align: right; }
+h5{
+	margin-left: 500px;
+	margin-right: 200px;
+	margin-top: 300px;
+	color: black;
+}
+
+.card-text{
+	margin-left: 200px;
+	margin-right: 200px;
+	color: black;
+
+}
+ h2{
+ 	padding-top: 100px;
+ 	margin-left: 250px;
+ }
+ h1{
+ 	padding-top: 100px;
+ 	margin-left: 150px;
+ }
+
+.nav-item{
+ 	margin-top: 15px;
+ }
+
+ .form-inline{
+ 	margin-left: 100px;
+ }
+
+ .logo{
+ 	margin-left: 250px;
+
+ }
+
+ .card{
+ 	margin-right: 10px;
+ }
+
+ h1,h3,h4,h6{
+ 	text-align: center;
+ 	color: black;
+ }
+p{
+	color: black;
+}
+h2{
+	color: black;
+}
+ .centralizado {
+ 	text-align: center;
+ }
+#lugar{
+	text-align: center;
+}
+#botaopromocao{
+	margin-left: 600px;
+	-moz-box-shadow: 3px 4px 0px 0px #899599;
+	-webkit-box-shadow: 3px 4px 0px 0px #899599;
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #bab1ba) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #bab1ba 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bab1ba');
+	background-color:#ededed;
+	-webkit-border-top-left-radius:15px;
+	-moz-border-radius-topleft:15px;
+	border-top-left-radius:15px;
+	-webkit-border-top-right-radius:15px;
+	-moz-border-radius-topright:15px;
+	border-top-right-radius:15px;
+	-webkit-border-bottom-right-radius:15px;
+	-moz-border-radius-bottomright:15px;
+	border-bottom-right-radius:15px;
+	-webkit-border-bottom-left-radius:15px;
+	-moz-border-radius-bottomleft:15px;
+	border-bottom-left-radius:15px;
+text-indent:0;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	color:#3a8a9e;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #e1e2ed;
+}#botaopromocao:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #bab1ba), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #bab1ba 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bab1ba', endColorstr='#ededed');
+	background-color:#bab1ba;
+}#botaopromocao:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+#botaoform {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6) );
+	background:-moz-linear-gradient( center top, #ffffff 5%, #f6f6f6 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6');
+	background-color:#ffffff;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:1px;
+text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:normal;
+	font-style:normal;
+	height:40px;
+	width:100px;
+	text-align:center;
+	text-shadow:0px 1px 0px #ffffff;
+}#botaoform:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff) );
+	background:-moz-linear-gradient( center top, #f6f6f6 5%, #ffffff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff');
+	background-color:#f6f6f6;
+}#botaoform:active {
+	position:relative;
+	top:1px;
+}
+
+.msg-erro{ 
+	color: red;
+	}
+
+#mostrar{
+  display: none;
+}
+
+#passar_mouse:hover #mostrar{
+  display:block;
+  }
+
+ #eximg{
+ 	width: 200px;
+ 	margin-left: 550px;
+ }
+ #passar_mouse{
+ 	width:1px;
+ }
+ #mostrar{
+
+ 	margin-left: 650px;
+ }
+ #mostrarInverno{
+  display: none;
+
+ }
+ #passar_mouse2:hover #mostrarInverno{
+  display:block;
+  }
+
+
+  #preco{
+  	color: gray;
+  }
+
+  #inverno{
+  	font-size: 100px;
+  	padding-right:  100px;
+  	
+  }

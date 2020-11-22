@@ -172,15 +172,15 @@ Posters and still images
 **************************************/
 
 .conteudo-roupas:nth-child(1) .roupas .poster {
-  background-image: url(../img/img24.jpg);
+	background-image: url(../img/img24.jpg);
 }
 
 .conteudo-roupas:nth-child(2) .poster {
-  background-image: url(../img/img23.jpg);
+	background-image: url(../img/img23.jpg);
 }
 
 .conteudo-roupas:nth-child(3) .poster {
-  background-image: url(../img/img21.webp);
+	background-image: url(../img/img21.webp);
 }
 
 .conteudo-roupas:nth-child(1) .info header {

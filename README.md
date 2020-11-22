@@ -61,7 +61,7 @@ Objetos Nativos
 
 Objetos
 
-- [ ] Criar objeto usando função construtora ou notação literal
+- [x] Criar objeto usando função construtora ou notação literal
 - [ ] Usar herança prototipal
 
 
